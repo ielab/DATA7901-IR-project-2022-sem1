@@ -1,6 +1,7 @@
 # Subproject 6 - Multi-Modal Vector-PRF (Rocchio)
 
 ## Overview
+Pseudo-relevance feedback (PRF) aims to reduce the effect of query-passage vocabulary mismatch and thus improve search effectiveness by modifying the original query using information from top-ranked passages.
 Instead of using texts to perform PRF in the classic way, a new research has proposed the Vector-PRF, which utilises the embeddings produced by Dense Retrievers, then fuse the top-k result vectors for each query from the initial retrieval results with the query vectors together to form a new query vector. This approach has shown great improvements on several datasets with a high efficiency. For the image retrieval task, images are also represented as embeddings, therefore, it is interesting to apply the Vector-PRF in this task and analyze the performance.
 
 
