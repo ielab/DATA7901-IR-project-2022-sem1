@@ -16,5 +16,5 @@ Pseudo-relevance feedback mechanisms, from Rocchio to the relevance models, have
 
 ## Key Papers
 
-3. Wang, X., Macdonald, C., Tonellotto, N., & Ounis, I. [Pseudo-Relevance Feedback for Multiple Representation Dense Retrieval](https://arxiv.org/pdf/2106.11251.pdf) In Proceedings of SIGIR 2021.
+1. Wang, X., Macdonald, C., Tonellotto, N., & Ounis, I. [Pseudo-Relevance Feedback for Multiple Representation Dense Retrieval](https://arxiv.org/pdf/2106.11251.pdf) In Proceedings of SIGIR 2021.
 
