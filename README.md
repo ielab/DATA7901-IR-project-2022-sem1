@@ -20,6 +20,13 @@ Repository for the DATA7901 IR project (themed project 3) for semester 1, 2022.
 
 ## Weekly Schedule of Activities
 
+All activities occur on Zoom. Recurrent Zoom link: .
+Note, all times are Brisbane-based.
+
+| Week | When                         | Activity |
+|------|------------------------------|----------------------------------------|
+|  3   | Friday 18/03 @1.30-3.30pm    |IR101 + subproject introduction         |
+|      |                              |                                        |
 
 ## Sub-projects assignation
 
