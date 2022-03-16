@@ -30,7 +30,7 @@ Note, all times are Brisbane-based.
 |------|------------------------------|----------------------------------------|----------------------------------------|
 |  3   | Friday 18/03 @1.30-3.30pm    |IR101 + subproject introduction         | [IR101 slides](https://github.com/ielab/DATA7901-IR-project-2022-sem1/blob/main/IR101/IR101.pdf)    |
 |  4   |   TBA                     |Q/A session on project directions for Assessment Task 1|  |
-|  TBA |   TBA                     |Hands on IR101| [Colab tutorial for IR101 Hands on](https://colab.research.google.com/drive/15o06rOBLQ7W6Sb7D02HuLfldtpwumh51?usp=sharing) |
+|  TBA |   TBA                     |Hands on IR101| [Colab tutorial for IR101 Hands-on](https://colab.research.google.com/drive/15o06rOBLQ7W6Sb7D02HuLfldtpwumh51?usp=sharing) |
 
 ## Sub-projects assignation
 
