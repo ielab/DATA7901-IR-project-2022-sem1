@@ -5,9 +5,9 @@ Dense retrieval has shown great success for passage ranking in English or monoli
 
 ## Core Tasks
 
-- Using index from Mr Tydi dataset, replicate their results of bm25, mDPR and hybrid using pyserini
+- Using index from Mr Tydi paper code, replicate their results of bm25, mDPR and hybrid using pyserini
 - Redo their analysis, investigate (1) Can you result in the same findings with them? (2) is there more findings you want to show?
-- Using mColbert in mMarco, test its effectiveness in Mr. Tydi. What's the difference or similarity in findings with (1)Mr TyDi mDPR (2) mMarco mColbert
+- Using mColbert in mMarco, test its effectiveness in Mr. Tydi. What's the difference or similarity in findings with (1) Mr TyDi mDPR (2) mMarco mColbert
 - [extension] With more recent works on multi-lingual models (papers 3 and 4), show effectiveness and findings on Mr Tydi Dataset.
 
 
