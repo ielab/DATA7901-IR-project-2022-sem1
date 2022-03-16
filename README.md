@@ -20,7 +20,7 @@ Repository for the DATA7901 IR project (themed project 3) for semester 1, 2022.
 
 ## Weekly Schedule of Activities
 
-All activities occur on Zoom. Recurrent Zoom link: .
+All activities occur on Zoom. Recurrent Zoom link: https://uqz.zoom.us/u/kb293N0uXJ.
 Note, all times are Brisbane-based.
 
 | Week | When                         | Activity |
