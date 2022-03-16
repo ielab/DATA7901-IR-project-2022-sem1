@@ -1,4 +1,4 @@
-# Subproject 1 - DRs have problems with Entities
+# Subproject 1 - DRs Have Problems with Entities
 
 ## Overview
 Dense retrievers (DRs) are effective methods for searching large indexes. Previous work has however identified DRs fail on a specific type of queries: queries that contain entities. This project aims to replicate the previous work, extend their analysis, re-cast the investigation to a more streamlined and common ad-hoc search task on MS MARCO/TREC DL, and investigate whether this finding generalises across different DR methods.
