@@ -1,12 +1,13 @@
-# Subproject 2 - Investigate the robustness of DRs with typo queries
+# Subproject 2 - Investigate the Robustness of DRs on Queries with Typos
 
 ## Overview
-Dense retrievers (DRs) are effective methods for the document retireval task, however, they are sensitive to noisy input data. For example, previous works have shown that a single typo word presented in user query will dramatically decrese the retreival effectivness of DRs. This project aims to replicate the previous work, extend their analysis, re-cast the investigation to a other different typo settings or typo settings in another lanugage, such as Chinese or Japeness. 
+Dense retrievers (DRs) are effective methods for retrieval; however, they are sensitive to noisy input data. For example, previous work has shown that a single query term containing a typo can dramatically decrese the retrieval effectivness of DRs. This project aims to replicate the previous work, extend their analysis, re-cast the investigation to different typo-settings or typo-settings for another language, such as Chinese or Japanese. 
 
 ## Core Tasks
 
-- Obtain code and FAISS index, re-run their pipelines, evaluate the results accuracy to form the original table.
-- Apply different types of typo queries in addition to the original settings and investigate the robustness of other exsiting BERT-based Dense/Sparse retrievers on typo queries.	
+- Obtain code and FAISS index, re-run the original pipelines, evaluate the results accuracy to form the original table.
+- Apply different types of typo-queries in addition to the original settings and investigate the robustness of other exsiting BERT-based Dense/Sparse retrievers on typo queries.	
+- investigate other datasets, including multi-lingual datasets.
 - [extension] Adopt the original typos-aware trainig to the state-of-the-art DRs: this requires understand how the the state-of-the-art DRs to be trained.
 
 
