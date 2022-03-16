@@ -14,9 +14,12 @@ Repository for the DATA7901 IR project (themed project 3) for semester 1, 2022.
 | Sub-project ID | Title                             |
 |----------------|-----------------------------------|
 |       1        | [DRs Have Problems with Entities](https://github.com/ielab/DATA7901-IR-project-2022-sem1/tree/main/sub-projects/1)   |
-|                |                                   |
-
-
+|       2        |                                   |
+|       3        |                                   |
+|       4        |                                   |
+|       5        | [Effectiveness/Efficiency/Space Trade-Off of Pseudo-Relevance Feedback](https://github.com/ielab/DATA7901-IR-project-2022-sem1/tree/main/sub-projects/5) |
+|       6        | [Multi-Modal Vector-PRF (Rocchio)](https://github.com/ielab/DATA7901-IR-project-2022-sem1/tree/main/sub-projects/6)  |
+|       7        | [Reproduce ColBERT PRF](https://github.com/ielab/DATA7901-IR-project-2022-sem1/tree/main/sub-projects/7)  |
 
 ## Weekly Schedule of Activities
 
