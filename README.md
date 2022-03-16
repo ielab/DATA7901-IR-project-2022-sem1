@@ -34,3 +34,8 @@ Note, all times are Brisbane-based.
 |----------------|---------|-------|
 |                |         |       |
 |                |         |       |
+
+
+## Key Background Readings
+
+* Lin, J., Nogueira, R., & Yates, A. (2021). [Pretrained transformers for text ranking: Bert and beyond.](https://web.archive.org/web/20210716210049id_/https://pure.mpg.de/rest/items/item_3287344_1/component/file_3287345/content) Synthesis Lectures on Human Language Technologies, 14(4), 1-325.
