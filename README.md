@@ -29,7 +29,7 @@ Note, all times are Brisbane-based.
 | Week | When                         | Activity                               | Material                               |
 |------|------------------------------|----------------------------------------|----------------------------------------|
 |  3   | Friday 18/03 @1.30-3.30pm    |IR101 + subproject introduction         | [IR101 slides](https://github.com/ielab/DATA7901-IR-project-2022-sem1/blob/main/IR101/IR101.pdf)    |
-|      |                              |                                        |                                        |
+|  4   |   TBA                     |Q/A session on project directions for Assessment Task 1|                                        |
 
 ## Sub-projects assignation
 
