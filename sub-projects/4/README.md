@@ -6,9 +6,9 @@ Dense retrieval has shown great success for passage ranking in English or monoli
 ## Core Tasks
 
 - Using index from Mr Tydi paper code, replicate their results of bm25, mDPR and hybrid using Pyserini
-- Redo their analysis, investigate (1) Can you result in the same findings with them? (2) is there more findings or insights?
-- Using mColbert in mMarco, test its effectiveness in Mr. Tydi. What's the difference or similarity in findings with (1) Mr TyDi mDPR (2) mMarco mColbert
-- [extension] (1) With more recent works on multi-lingual DRs (papers 3 and 4), show effectiveness and findings on Mr. TyDi Dataset. (2) Cross-lingual setting, example: using Chinese to search English(may require change of current dataset).
+- Choose one target language other than English, investigate (1) What Relevance signal does mDPR catch when applying to other languages? (2) The difference in relevance signal from mDPR and BM25?
+- Choose from: (1) Using mDPR and hybrid in Mr. TyDi, test its effectiveness in mMarco. What's the difference or similarity in findings with Mr TyDi mDPR and hybrid (out of domain training) (2) Using ColBert trainied on mMarco, what's its effectiveness in Mr. TyDi (Multi-lingual retrieval)
+- [extension] (1) With more recent works on multi-lingual or cross-lingual DRs (papers 3 and 4), try on multi-lingual setting to test effectiveness (2) Cross-lingual setting, example: using Chinese to search English(may require change of current dataset).
 
 
 
