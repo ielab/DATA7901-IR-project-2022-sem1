@@ -52,3 +52,4 @@ Note, all times are Brisbane-based.
 ## Key Background Readings
 
 * Lin, J., Nogueira, R., & Yates, A. (2021). [Pretrained transformers for text ranking: Bert and beyond.](https://web.archive.org/web/20210716210049id_/https://pure.mpg.de/rest/items/item_3287344_1/component/file_3287345/content) Synthesis Lectures on Human Language Technologies, 14(4), 1-325.
+* Lots of dense retrievers are implemented with [Hugging Face transformers library](https://huggingface.co/docs/transformers/index), you will have a look the library documentation at some point. If you are interested in transformers models and applications in general, they offered a good [tutorial](https://huggingface.co/course/chapter1/1)
