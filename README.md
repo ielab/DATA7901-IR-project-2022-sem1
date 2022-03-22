@@ -33,10 +33,17 @@ Note, all times are Brisbane-based.
 |  TBA |   TBA                     |Hands on IR101| [Colab tutorial for IR101 Hands-on](https://colab.research.google.com/drive/15o06rOBLQ7W6Sb7D02HuLfldtpwumh51?usp=sharing) | |
 |  TBA   |   TBA                     |Visualisation techniques for analysing IR results|  | |
 
-## Tutors email
+## Communications Staff-Student
+
+The preferred way of communicating between staff and students is via Slack. We have created a private channel for this course, named #data7901-ir-superproject-2022-sem1, in the ielab-projects workspace. You have been added to the channel with your UQ email. 
+For personal communication, you can directly DM the teaching staff in Slack (please DM as a group message @guido @arvin @hang @dylan).
+
+In case you need to email us (this is not preferred), our emails are
+
 | Name | Email                             |
 |----------------|-----------------------------------|
-|  Shengyao Zhuang | s.zhuang@uq.edu.au |
+| Guido Zuccon | g.zuccon@uq.edu.au | 
+| Shengyao Zhuang | s.zhuang@uq.edu.au |
 |  Hang Li | hang.li@uq.edu.au |
 |  Shuai Wang | shuai.wang5@uq.net.au |
 
