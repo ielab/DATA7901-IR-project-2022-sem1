@@ -32,6 +32,8 @@ Note, all times are Brisbane-based.
 |  4   |   Wednesday 11am-12pm; Friday 10am-11am                     |Q/A session on project directions for Assessment Task 1|  | |
 |  5   |   Wednesday 10am-11am; Friday 10am-11am                     |Hands on IR101| [Colab tutorial for IR101 Hands-on](https://colab.research.google.com/drive/15o06rOBLQ7W6Sb7D02HuLfldtpwumh51?usp=sharing) | |
 |  6   |   Friday 11am-12am                     | General Consultation |  | |
+|  7   |   [Google Sheet](https://docs.google.com/spreadsheets/d/1guAsZCEZYtsvvP23OqpgHVwUybAL8szzNBORlDkQric/edit?usp=sharing) | Individual Meetings ||
+|  8   |   TBA   |  Visualisation and Related Tools  |  |  |
 
 ## Communications Staff-Student
 
