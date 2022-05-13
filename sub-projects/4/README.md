@@ -1,7 +1,7 @@
 # Subproject 4 - Multi-lingual DRs
 
 ## Overview
-Dense retrieval has shown great success for passage ranking in English or monolingual tasks. This still remains a largely unexplored area in a multi-lingual setting. However, recently published datasets, including Mr TyDo and mMarco have given opportunities to test the effectiveness of multi-lingual models. In this project, we aim to replicate previous works, investigate the effectiveness and generalization of different multi-lingual DR models on Mr. TyDi datasets.
+Dense retrieval has shown great success for passage ranking in English or monolingual tasks. This still remains a largely unexplored area in a multi-lingual setting. However, recently published datasets, including Mr TyDi and mMarco have given opportunities to test the effectiveness of multi-lingual models. In this project, we aim to replicate previous works, investigate the effectiveness and generalization of different multi-lingual DR models on Mr. TyDi datasets.
 
 ## Core Tasks
 
