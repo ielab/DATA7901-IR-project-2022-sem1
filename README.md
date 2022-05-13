@@ -62,3 +62,7 @@ In case you need to email us (this is not preferred), our emails are
 
 * Lin, J., Nogueira, R., & Yates, A. (2021). [Pretrained transformers for text ranking: Bert and beyond.](https://web.archive.org/web/20210716210049id_/https://pure.mpg.de/rest/items/item_3287344_1/component/file_3287345/content) Synthesis Lectures on Human Language Technologies, 14(4), 1-325.
 * Lots of dense retrievers are implemented using the [Hugging Face transformers library](https://huggingface.co/docs/transformers/index). We will examine the library documentation in an upcoming session. If you are interested in transformers models and their applications in general, Huggingface offers a good [tutorial](https://huggingface.co/course/chapter1/1)
+
+## Possible computing infrastacture
+- [UQ Ragpur](https://student.eait.uq.edu.au/infrastructure/compute/)
+- [Google Colab](https://colab.research.google.com/?utm_source=scs-index)
